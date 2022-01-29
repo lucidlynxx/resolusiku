@@ -1,0 +1,4 @@
+RESOLUSIKU
+- Konsisten untuk belajar pemrograman web
+- Membuat sebuah web profile sendiri
+- Membuat website yang bermanfaat bagi orang lain
