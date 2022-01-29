@@ -2,3 +2,5 @@ RESOLUSIKU
 - Konsisten untuk belajar pemrograman web
 - Membuat sebuah web profile sendiri
 - Membuat website yang bermanfaat bagi orang lain
+- Membuat website yang memilki keamanan yang baik
+- Dapat bekerja sama dengan web developer yang sudah expert
