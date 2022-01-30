@@ -3,7 +3,11 @@ RENCANA BELAJAR SAYA
 - Belajar Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
+    ^ React
 - Struktur Data Dasar
 - Belajar Bootstrap
 - Belajar Laravel
+  ^ Codeigniter
 - Belajar API
+- Python
