@@ -1,0 +1,8 @@
+RENCANA BELAJAR SAYA
+
+- Belajar Javascript
+  * ES6
+  * Framework Javascript
+- Belajar Bootstrap
+- Belajar Laravel
+- Belajar API
