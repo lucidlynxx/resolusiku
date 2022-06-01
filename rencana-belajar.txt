@@ -7,7 +7,8 @@ RENCANA BELAJAR SAYA
     ^ React
 - Struktur Data Dasar
 - Belajar Bootstrap
-- Belajar Laravel
-  ^ Codeigniter
+- Belajar Framework PHP
+  * Laravel
+  * Codeigniter
 - Belajar API
 - Python
